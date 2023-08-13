@@ -1,6 +1,7 @@
 body {
     background-color: wheat;
     font-family: sans-serif;
+    padding: 0 40px;
 }
 .title  {
     text-align: center;
